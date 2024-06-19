@@ -45,9 +45,6 @@ This will launch the Gradio interface where you can follow the steps to create a
 
 We welcome contributions! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
