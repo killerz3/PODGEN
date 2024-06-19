@@ -1,5 +1,5 @@
 
-# PodGen
+# PodGen📻
 
 [PodGen](https://huggingface.co/spaces/killerz3/PodGen) is a Python and Gradio project designed to generate podcast style conversation between two charecters Alice anc Bob . This allows user to better understand topics , especailly people who remember better when they hear somthing rather than reading.
 
@@ -12,6 +12,12 @@
 ## Check Out the Hosted Version or Install it locally
 
 [Click Here](https://huggingface.co/spaces/killerz3/PodGen)
+
+## Sample Output
+
+
+https://github.com/killerz3/PODGEN/assets/54001841/c37abcd4-01d9-4c1f-8e9c-fa76d86d37f7
+
 
 ## Installation
 
