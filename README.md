@@ -31,6 +31,10 @@ python app.py
 
 This will launch the Gradio interface where you can follow the steps to create and manage your podcast episodes.
 
+## Architechture
+
+![diagram-export-19-06-2024-20_50_33](https://github.com/killerz3/PODGEN/assets/54001841/b248abd5-bd88-41ee-9c1c-2d5845cf0aa4)
+
 ## Contributing
 
 We welcome contributions! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
